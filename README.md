@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a post-doctoral researcher in [the mathQI group](https://www.ucm.es/mathqi) at [Instituto de Ciencias Matemáticas](https://www.icmat.es). My current research focuses, mostly, in the interplays between machine learning and quantum physics, and in quantum nonlocality. In the past, I have also worked in quantum thermodynamics, and in quantum information aspects of quantum field theory.
+I'm a post-doctoral researcher in the [Quantum Information Theory](https://www.unige.ch/gap/qic/theory/) group at [Université de Genève](https://www.unige.ch). My current research focuses, mostly, in the interplays between machine learning and quantum physics, and in quantum nonlocality. In the past, I have also worked in quantum thermodynamics, and in quantum information aspects of quantum field theory.
 
 ### What you will find 👀
 There are a few things that you may find wandering around here:
